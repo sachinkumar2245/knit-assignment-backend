@@ -169,10 +169,7 @@ http://localhost:3000
 ## API Documentation
 
 - **Postman Collection**:\
-   *(Add Postman link here)*
-
-- **Swagger (optional)**:\
-   *(If hosted, add Swagger URL)*
+   [*Postman Collection*](https://sachin-5849001.postman.co/workspace/My-Workspace~686a3e19-73f7-4dda-8ce3-c0d9902b5e3d/collection/43453431-31bed84c-c7df-49d9-a59a-dbf41fb40d4c?action=share&creator=43453431&active-environment=43453431-23591b3f-380f-41ab-880a-d8d36307cfd8)
 
 ---
 
